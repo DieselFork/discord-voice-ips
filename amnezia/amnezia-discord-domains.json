@@ -7,7 +7,7 @@
 ,
   {"hostname":"ptb.discord.com","ip":"162.159.128.233"}
 ,
-  {"hostname":"discord-attachments-uploads-prd.storage.googleapis.com","ip":"108.177.14.207"}
+  {"hostname":"discord-attachments-uploads-prd.storage.googleapis.com","ip":"142.250.179.155"}
 ,
   {"hostname":"discord-activities.com","ip":""}
 ,
@@ -15,7 +15,7 @@
 ,
   {"hostname":"discord.com","ip":"162.159.128.233"}
 ,
-  {"hostname":"discord.design","ip":"104.21.112.1"}
+  {"hostname":"discord.design","ip":"104.21.80.173"}
 ,
   {"hostname":"discord.dev","ip":"104.21.72.221"}
 ,
@@ -55,7 +55,7 @@
 ,
   {"hostname":"discordsays.com","ip":"8.47.69.0"}
 ,
-  {"hostname":"discordsez.com","ip":"8.47.69.4"}
+  {"hostname":"discordsez.com","ip":"8.47.69.0"}
 ,
-  {"hostname":"discordstatus.com","ip":"3.174.113.53"}
+  {"hostname":"discordstatus.com","ip":"18.245.86.10"}
 ]
